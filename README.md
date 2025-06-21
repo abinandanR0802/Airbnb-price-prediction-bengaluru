@@ -34,4 +34,4 @@ This project uses real Airbnb listing data from Bengaluru to build a machine lea
 
 ---
 
-_⭐ Created by Abinandanan R using Python, Pandas, XGBoost & scikit-learn_
+_⭐ Created by Abinandan using Python, Pandas, XGBoost & scikit-learn_
